@@ -5,9 +5,8 @@ Bem-vindo ao repositório da nossa Landing Page para a Ballecoffee! Este projeto
 ## 🚀 Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript (opcional)
 
 ## 💻 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/ballecoffee.git
+   git clone https://github.com/Gugahl/landing-page-ballecoffee.git
